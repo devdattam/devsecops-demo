@@ -1,3 +1,6 @@
 feature1
+<<<<<<< HEAD
 feature2
 feature3
+=======
+>>>>>>> parent of 4493a9b... feature2 added
